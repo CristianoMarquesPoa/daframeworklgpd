@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de ocorrências"
+    id="2568c975-4350-4150-969f-349f5f713690"
+    documentation="A monitora as ocorrências registrando qualquer desvio existente nos processos&#xD;&#xA;padrão da solução, estas ocorrências geram um workflow para serem solucionadas, este workflow pode&#xD;&#xA;perfeitamente ser integrado via serviços a soluções de suporte para abertura de tickets de suporte."/>

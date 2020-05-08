@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cadastramento/Gestão dos compartilhamentos de forma geral"
+    id="1921623e-ab65-49a5-936b-e20d33568697"
+    documentation="Representa o plano para configurar a capability de gestão do compartilhamento. Esse plano irá derivar o processo de gestão do compartilhamento que será mantido em tempo de operação. Há um gap entre a gestão do compartilhamento possível e aquela que é pedida pela lei/pretendida pelo negócio."/>

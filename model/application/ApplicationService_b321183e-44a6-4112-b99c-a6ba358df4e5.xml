@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publica Consentimentos Marca"
+    id="b321183e-44a6-4112-b99c-a6ba358df4e5"
+    documentation="API responsável por expor ao titular os consentimentos do uso dos seus dados. Finalidades são mantidas dentro da plataforma LGPD."/>

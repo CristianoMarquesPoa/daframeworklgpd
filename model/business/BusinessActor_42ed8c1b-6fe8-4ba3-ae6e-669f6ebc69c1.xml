@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funcionário"
+    id="42ed8c1b-6fe8-4ba3-ae6e-669f6ebc69c1"
+    documentation="São todos os colaboradores, tanto ativos quanto inativos."/>

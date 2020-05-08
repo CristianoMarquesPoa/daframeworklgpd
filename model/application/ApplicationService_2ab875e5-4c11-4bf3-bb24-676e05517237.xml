@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditoria"
+    id="2ab875e5-4c11-4bf3-bb24-676e05517237"
+    documentation="A solução registra em seu módulo administrativo todas os dados relacionados as transações&#xD;&#xA;realizadas, acessos e logs completos sobre as transações."/>

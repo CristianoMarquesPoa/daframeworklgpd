@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requisitante"
+    id="e1a6c553-8af3-43d6-9827-cb2a7dbc8113"
+    documentation="Ator principal da arquitetura de negócio LGPD podendo ser especializado em diversos tipos."/>

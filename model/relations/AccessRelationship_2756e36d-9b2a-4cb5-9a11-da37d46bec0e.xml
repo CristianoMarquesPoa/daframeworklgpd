@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2 - Campanhas se utilizam dessa base"
+    id="2756e36d-9b2a-4cb5-9a11-da37d46bec0e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_553b855d-c1b6-4820-9e5e-354eb9efcbb7.xml#553b855d-c1b6-4820-9e5e-354eb9efcbb7"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_709804d9-25b4-45b4-9692-b40ab62f3ad6.xml#709804d9-25b4-45b4-9692-b40ab62f3ad6"/>
+</archimate:AccessRelationship>

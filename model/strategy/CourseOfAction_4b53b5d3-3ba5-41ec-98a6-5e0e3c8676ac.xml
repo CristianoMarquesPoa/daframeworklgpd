@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cadastramento/Gestão dos consentimentos por titular/marca"
+    id="4b53b5d3-3ba5-41ec-98a6-5e0e3c8676ac"
+    documentation="Representa o plano para configurar a capability de gestão do consentimento. Esse plano irá derivar o processo de gestão do consentimento por titular que será mantido em tempo de operação."/>

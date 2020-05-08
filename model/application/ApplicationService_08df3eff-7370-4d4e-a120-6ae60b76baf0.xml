@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Atualiza Consentimentos DBM"
+    id="08df3eff-7370-4d4e-a120-6ae60b76baf0"
+    documentation="API responsável por replicar do data lake para DBM corporativo."/>

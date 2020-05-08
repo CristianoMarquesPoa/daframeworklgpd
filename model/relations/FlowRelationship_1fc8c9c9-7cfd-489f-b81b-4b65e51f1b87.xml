@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2 - Executar serviço de atualização do consentimento"
+    id="1fc8c9c9-7cfd-489f-b81b-4b65e51f1b87">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1c09dd3c-aeba-4901-ba29-c200b2122fd2.xml#1c09dd3c-aeba-4901-ba29-c200b2122fd2"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_09f1008f-a735-4faf-94dd-524e3d9200ca.xml#09f1008f-a735-4faf-94dd-524e3d9200ca"/>
+</archimate:FlowRelationship>

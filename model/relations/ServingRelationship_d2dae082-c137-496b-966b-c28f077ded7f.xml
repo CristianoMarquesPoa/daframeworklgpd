@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integração para Tratamento de Petições Não Automatizadas"
+    id="d2dae082-c137-496b-966b-c28f077ded7f">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_3c27c8e1-071f-4d3f-8349-b0afebad3797.xml#3c27c8e1-071f-4d3f-8349-b0afebad3797"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ded64c81-dae7-4652-bf3b-563189eca3c3.xml#ded64c81-dae7-4652-bf3b-563189eca3c3"/>
+</archimate:ServingRelationship>

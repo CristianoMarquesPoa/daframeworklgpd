@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de operadores e parceiros"
+    id="bbcc2e5b-60e0-4730-8f8f-02a38781c822"
+    documentation="A solução permite a gestão de operadores atribuindo a estes um&#xD;&#xA;score de risco obtido após avaliação do jurídico e dos responsáveis pelo atendimento regulatório de&#xD;&#xA;privacidade de dados, evidência de comprovação e dados pessoais em posse de cada operador. A&#xD;&#xA;avaliação dos operadores passa por workflow de atividades e aprovações."/>

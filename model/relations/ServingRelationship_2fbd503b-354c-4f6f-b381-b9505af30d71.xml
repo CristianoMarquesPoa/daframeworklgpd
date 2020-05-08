@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3 - Atualiza dados de permissões"
+    id="2fbd503b-354c-4f6f-b381-b9505af30d71"
+    documentation="Oracle Responsys atualiza dados do DBM">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_553b855d-c1b6-4820-9e5e-354eb9efcbb7.xml#553b855d-c1b6-4820-9e5e-354eb9efcbb7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_12a5496d-db9e-4625-bd4a-449e9a35bc98.xml#12a5496d-db9e-4625-bd4a-449e9a35bc98"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integra Dados Básicos/Varejo"
+    id="5868ec2a-e086-4540-9639-45df5343c11e"
+    documentation="API responsável por integrar o golden-record do cliente/titular para plataforma LGPD."/>

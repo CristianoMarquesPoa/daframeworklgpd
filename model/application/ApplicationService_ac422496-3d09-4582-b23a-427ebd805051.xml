@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publica Compartilhamentos/Marca"
+    id="ac422496-3d09-4582-b23a-427ebd805051"
+    documentation="API responsável por expor ao titular os compartilhamentos que a marca faz dos seus dados (compartilhamento com Facebook, Google e etc.). Compartilhamentos são mantidos dentro da plataforma LGPD."/>

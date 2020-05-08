@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Busca Dados Funcionario/Marca"
+    id="261fbd51-4340-48ab-9da4-7b0a76e4d97c"
+    documentation="API responsável por expor os dados do funcionário de acordo com a empresa/marca."/>

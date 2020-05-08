@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Módulo de Referência"
+    id="f19b88e5-38eb-4416-8534-12dff606f042"
+    documentation="Realiza o cruzamento de todo e qualquer asset com o titular. Garantir o controle do ciclo de vida dos dados pessoais é necessária a compreensão sobre a origem dos dados pessoais, onde são processados e armazenados. A solução&#xD;&#xA;permite a visualização da linhagem de dados de forma gráfica entendendo onde os atributos de dados&#xD;&#xA;pessoais são tratados."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ciclo de vida da Finalidade/propósito de uso dos dados pessoais"
+    id="170ded05-d370-43b9-a99d-11d04815b6f7"
+    documentation="O tratamento de dados pessoais parte&#xD;&#xA;de um propósito de uso autorizado, seja esta autorização, permitida por base legal ou consentida&#xD;&#xA;diretamente pelo titular. Partindo deste princípio o controle do início e do término desta autorização é&#xD;&#xA;fundamental para evitar o tratamento indevido de dados pessoais. O DPP controla o ciclo de vida dos&#xD;&#xA;tratamentos de dados permitidos, considerando a vigência de autorizações legais que permitem o uso&#xD;&#xA;dos dados de titulares. Este controle permite o início de um fluxo de trabalho de alerta sobre o término&#xD;&#xA;da permissão de uso ou de forma automática o envio da instrução de revogação de uso para os demais&#xD;&#xA;sistemas, aplicações e operadores terceiros."/>

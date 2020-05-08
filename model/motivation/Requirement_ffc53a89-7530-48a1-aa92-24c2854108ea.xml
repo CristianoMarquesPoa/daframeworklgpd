@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gerar extrato completo automaticamente"
+    id="ffc53a89-7530-48a1-aa92-24c2854108ea"
+    documentation="Definição Pamella Rigoli em 01/abr/2020:&#xD;&#xA;&#xD;&#xA;Dado/Informação&#x9;&#x9;&#x9;&#x9;FONTE&#xD;&#xA;-----------------------&#x9;&#x9;--------&#xD;&#xA;Nome completo&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;Data de nascimento&#x9;&#x9;&#x9;DBM&#xD;&#xA;Gênero&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;Estado civil&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;Nacionalidade&#x9;&#x9;&#x9;&#x9;&#x9;HTC&#xD;&#xA;Nome do pai&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;Nome da mãe&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;RNE&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;HTC&#xD;&#xA;CPF&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;RG&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;E-mail&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;Endereço Residencial&#x9;&#x9;DBM&#xD;&#xA;Número de celular&#x9;&#x9;&#x9;DBM&#xD;&#xA;Telefone residencial&#x9;&#x9;&#x9;DBM&#xD;&#xA;Grau de escolaridade&#x9;&#x9;DBM"/>

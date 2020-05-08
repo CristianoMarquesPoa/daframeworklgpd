@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Apresentar extrato com dados básicos do titular na marca acessada"
+    id="d1dfbe9d-4144-47f2-a607-d2d5855d58f7"
+    documentation="Definição Pamella Rigoli em 01/abr/2020:&#xD;&#xA;&#xD;&#xA;Dado/Informação&#x9;&#x9;&#x9;FONTE&#xD;&#xA;---------------------&#x9;&#x9;--------&#xD;&#xA;Nome completo&#x9;&#x9;&#x9;DBM&#xD;&#xA;Data de nascimento&#x9;&#x9;DBM&#xD;&#xA;Estado civil&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;CPF&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;RG&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;E-mail&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;DBM&#xD;&#xA;Número de celular&#x9;&#x9;DBM"/>

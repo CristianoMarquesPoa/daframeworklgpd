@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Canditato"
+    id="2772b9f7-109a-415c-88b9-facf4f582e67"
+    documentation="Pessoa que realizou cadastro para uma vaga e não foi selecionado ou está em período de seleção."/>

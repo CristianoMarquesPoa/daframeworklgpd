@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflows colaborativos"
+    id="b55818d8-ff59-405c-b853-1305bf1eab78"
+    documentation="A governança da privacidade de dados pessoais inicia quando todos os&#xD;&#xA;envolvidos colaboram e interagem junto as tarefas corporativas designadas a eles. A solução possui&#xD;&#xA;recursos avançados para elaboração de fluxos de trabalho colaborativo baseados em processos&#xD;&#xA;(BPMN), controles de SLA’s baseados em tempo para conclusão da atividade, escalonamento e demais&#xD;&#xA;regras de forma simples e ágil para atender a todos os requisitos de adequação a privacidade de dados.&#xD;&#xA;A solução permite a alteração dos fluxos atuais ou a construção de novos fluxos de trabalho de forma&#xD;&#xA;visual padrão BPMN incluindo , incluindo níveis de permissão, envio de alertas via e-mail e controle de&#xD;&#xA;SLA para notificações e escalonamento."/>

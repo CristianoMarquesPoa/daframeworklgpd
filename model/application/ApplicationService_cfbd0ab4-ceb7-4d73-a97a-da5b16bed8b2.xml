@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Busca Dados Fornecedor/Marca"
+    id="cfbd0ab4-ceb7-4d73-a97a-da5b16bed8b2"
+    documentation="API responsável por expor os dados do fornecedor de acordo com a empresa/marca."/>

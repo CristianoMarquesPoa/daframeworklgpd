@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Atualiza Consentimentos"
+    id="c0cfccac-a077-4bf7-91a4-9650f56eb99d"
+    documentation="API responsável por replicar consentimentos para o data lake."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplica Consentimento/Marca"
+    id="09f1008f-a735-4faf-94dd-524e3d9200ca"
+    documentation="API responsável por aplicar o consentimento (opt-in e opt-out do titular por marca."/>

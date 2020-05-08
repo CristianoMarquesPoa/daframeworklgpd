@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de sistemas e aplicações"
+    id="ad59f481-a865-45c1-baf9-6f786895c426"
+    documentation="Para prover controle completo sobre os dados pessoais, o DPP gerencia&#xD;&#xA;todas as aplicações, sistemas, bases de dados e ambientes físicos onde estes artefatos digitais encontramse instalados e operados. Com este dispositivo a solução realiza a comunicação via serviços solicitando&#xD;&#xA;que os sistemas realizem os procedimentos de privacidade e mantem o controle sobre quais titulares são&#xD;&#xA;tratados em quais locais, por quais operadores e em quais sistemas, aplicações ou bancos de dados. "/>

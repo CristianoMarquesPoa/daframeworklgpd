@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publica Extrato Titular/Marca"
+    id="9b8285bc-a742-46c4-9a94-4692584d9925"
+    documentation="API responsável por expor os dados do titular/cliente de acordo com a empresa/marca."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integra Dados Básicos Realize"
+    id="a83d46b4-872d-4387-80ba-1fe9ec4be21c"
+    documentation="API responsável por integrar o dados financeiros e complementares do cliente/titular para plataforma LGPD."/>

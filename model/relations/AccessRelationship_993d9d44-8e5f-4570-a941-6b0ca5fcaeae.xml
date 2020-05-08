@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1 - Cadastramento no Portal"
+    id="993d9d44-8e5f-4570-a941-6b0ca5fcaeae">
+  <source
+      xsi:type="archimate:Device"
+      href="Device_302371bf-0952-47f7-8e35-07aa5f3072be.xml#302371bf-0952-47f7-8e35-07aa5f3072be"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_709804d9-25b4-45b4-9692-b40ab62f3ad6.xml#709804d9-25b4-45b4-9692-b40ab62f3ad6"/>
+</archimate:AccessRelationship>

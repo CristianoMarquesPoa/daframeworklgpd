@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de consentimentos"
+    id="a91b3751-16b3-4c9f-9700-a6629403f876"
+    documentation="O DPP permite o controle de consentimentos e revogações praticadas pelo&#xD;&#xA;titular através de sua integração por serviços com todos os canais de contato da organização, o&#xD;&#xA;consentimento e a revogação registram o canal pelo qual a operação foi realizada, data e hora da&#xD;&#xA;operação e demais detalhes transmitidos pela aplicação que originou a transação. O DPP a partir deste&#xD;&#xA;gatilho inicia o processo de alerta ao ecossistema da organização e aos operadores terceiros para manter&#xD;&#xA;o alinhamento entre as operações e as autorizações dadas pelos titulares."/>

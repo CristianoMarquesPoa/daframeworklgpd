@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comunica Requisitante"
+    id="f9923729-4fb5-498a-b4da-b4acef4f4519"
+    documentation="Serviço de envio de e-mail responsável por avisar o requisitante que sua petição foi encerrada."/>

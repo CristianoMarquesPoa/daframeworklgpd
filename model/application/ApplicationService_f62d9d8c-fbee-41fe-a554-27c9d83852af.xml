@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de Processos"
+    id="f62d9d8c-fbee-41fe-a554-27c9d83852af"
+    documentation="O impacto de privacidade de dados interfere diretamente nos processos de&#xD;&#xA;negócio e para que o controle dos tratamento seja efetivo e se torne possível mensurar o impacto de&#xD;&#xA;mudanças regulatórias e a adequação da finalidade aos dados pessoais permitidos para o tratamento em&#xD;&#xA;cada processo, se torna importante a gestão de processo de negócios que tratam dados pessoais. Esta&#xD;&#xA;função possibilita a análise de impacto em negócios em caso de mudanças regulatórias, novas&#xD;&#xA;regulamentações e riscos associados a cada tratamento de dados pelos processos de negócio."/>

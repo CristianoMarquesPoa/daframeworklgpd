@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de operações de titulares"
+    id="ba07e23c-9caa-4df0-914d-0631c0a4df3b"
+    documentation="Assim como as ocorrências a solução registra todas as operações&#xD;&#xA;realizadas por titulares, como p.ex.: consentimento dados, revogações realizadas, questionamentos,&#xD;&#xA;requisição de dados, atualizações cadastrais, entre outras, mantendo um histórico de atuação dos&#xD;&#xA;titulares junto a empresa."/>

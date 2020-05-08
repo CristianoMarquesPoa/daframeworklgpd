@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Livre acesso dos titulares e Portabilidade"
+    id="fcb09df8-2411-483c-bce8-559fa6672c23"
+    documentation="O DPP permite que as aplicações utilizadas como front-end&#xD;&#xA;dos titulares acessem todas as informações relacionadas aos titulares, mantendo a transparência&#xD;&#xA;relacionada ao uso dos dados, consentimentos, autorizações legais de uso, operadores envolvidos, dados&#xD;&#xA;cadastrais e demais informações que o DPO e o Jurídico julguem necessário aos titulares. Através deste&#xD;&#xA;canal os titulares podem realizar revogações, novos consentimentos, atualizar seus dados cadastrais ou&#xD;&#xA;realizar a portabilidade de seus dados gerando arquivo xls, csv ou xml para download."/>
